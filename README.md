@@ -13,3 +13,4 @@ My first android app build with kotlin. It's a quiz app with decent UI and inten
 
 ## Ending Activity UI
 <img src="3.jpeg"/>
+# quiz-app
