@@ -12,7 +12,7 @@
         android:layout_width="177dp"
         android:layout_height="167dp"
         android:layout_centerInParent="true"
-        app:srcCompat="@drawable/quiz"
+        app:srcCompat="@drawable/imageview"
         tools:layout_editor_absoluteX="93dp"
         tools:layout_editor_absoluteY="234dp" />
 
@@ -23,8 +23,8 @@
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"
         android:layout_marginBottom="27dp"
+        android:text="Made by Dunston Jaufer"
         android:textColor="@android:color/white"
-        android:text="All rights are reserved"
         android:textSize="20dp"
         android:textStyle="bold" />
 </RelativeLayout>
